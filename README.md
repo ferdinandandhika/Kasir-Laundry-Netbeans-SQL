@@ -11,4 +11,4 @@
 - Double click pada ProjectLaundry.jar
 
 
-![Logo Proyek](https://github.com/username/repo/raw/main/images/1.jpg)
+![Logo Proyek](https://github.com/ferdinandandhika/Kasir-Laundry-Netbeans-SQL/blob/main/1.jpg)
