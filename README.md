@@ -11,4 +11,4 @@
 - Double click pada ProjectLaundry.jar
 
 
-![alt text](http://url/to/1.jpg)
+![Logo Proyek](https://github.com/username/repo/raw/main/images/1.jpg)
